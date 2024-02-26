@@ -11,11 +11,11 @@ const Footer = () => {
             className = "hover:cursor-pointer hover:text-blue-600 transition duration-150 ease-out hover:ease-in font-bold"
             href = "https://github.com/SinugbangIsda/"
           >
-            @Marcu Operario
+            @Nilesh_0306
           </a>
         </span>
         <span className = "text-white">
-          Listify © { currentYear }
+          TODO © { currentYear }
         </span>
         <div className = "flex flex-row justify-center items-center space-x-5">
           <FaInstagram
