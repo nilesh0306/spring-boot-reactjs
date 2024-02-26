@@ -1,4 +1,4 @@
-# Listify App
+# TODO App
 A full-stack application that utilizes the Spring Boot framework on the backend and React.js on the frontend to create a simple, yet functional todo list. The application allows users to create, read, update, and delete todo items in a user-friendly interface.
 
 The following technologies were used:
