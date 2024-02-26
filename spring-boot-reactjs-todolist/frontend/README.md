@@ -1,4 +1,4 @@
-# Listify React JS Frontend
+# TODO React JS Frontend
 This is the frontend of Listify that allows users to create, read, update, and delete todo items. The application uses the following technologies:
 
 - [React.js](https://react.dev/): A popular JavaScript library for building user interfaces.
