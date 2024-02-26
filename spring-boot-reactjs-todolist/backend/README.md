@@ -1,6 +1,6 @@
-# Listify Spring Boot REST API 
+# TODO Spring Boot REST API 
 
-This is the backend of Listify that allows users to create, read, update, and delete todo items. The application uses the following technologies:
+This is the backend of TODO that allows users to create, read, update, and delete to-do items. The application uses the following technologies:
 
 - [Spring Boot](https://spring.io/projects/spring-boot): A popular Java web framework for building robust, scalable, and secure web applications. Spring Boot is built on top of the [Spring Framework](https://spring.io/projects/spring-framework), which provides a wide range of modules for building various components of web applications, such as Spring Web for building web applications, Spring Data for data access, and Spring Security for authentication and authorization.
 - [Spring Web](https://docs.spring.io/spring-boot/docs/current/reference/html/web.html): A module of the Spring framework that provides support for building web applications.
