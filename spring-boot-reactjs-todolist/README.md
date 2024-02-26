@@ -41,21 +41,7 @@ The following are tools and software used in the making of this project:
 
 Further instructions on how to install and run the [backend](https://github.com/SinugbangIsda/spring-boot-reactjs-todolist/tree/main/backend) and [frontend](https://github.com/SinugbangIsda/spring-boot-reactjs-todolist/tree/main/frontend) of this application can be found in the README files of their respective directories in the repository.
 
-# System Screenshots
-Adding a todo item:
-![0](./docs/add1.png)
-![1](./docs/add2.png)
 
-Editing a todo item:
-![0](./docs/edit1.png)
-![1](./docs/edit2.png)
-![2](./docs/edit3.png)
-
-Deleting a todo item:
-![0](./docs/delete.png)
-
-# Contributing
-Contributions are always welcome! If you find any issues or have any suggestions, please open a new issue or submit a pull request.
 
 # References
 - [Spring Boot - Build a CRUD REST API with MongoDB Atlas | JavaTechie](https://www.youtube.com/watch?v=qVNOw9TWwxo&t=1976s)
