@@ -9,7 +9,7 @@ const Footer = () => {
         <span className = "text-white">
           <a 
             className = "hover:cursor-pointer hover:text-blue-600 transition duration-150 ease-out hover:ease-in font-bold"
-            href = "https://github.com/SinugbangIsda/"
+            href = "https://github.com/nilesh0306"
           >
             @Nilesh_0306
           </a>
